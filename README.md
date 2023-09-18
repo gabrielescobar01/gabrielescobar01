@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, React.js, Node.js
 - 🌱 I’m currently learning React.js, Node.js
 - 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me claudioescobardg31@gmail.com
+- 📫 How to reach me gabrielescobardev@gmail.com
 
 <!---
 gabrielescobar01/gabrielescobar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
